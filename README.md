@@ -1,3 +1,9 @@
+# :rotating_light: WARNING
+
+**This repository is DEPRECATED and not maintained anymore.**
+
+--- 
+
 # Android PagerSlidingTabStrip
 
 Interactive paging indicator widget, compatible with the `ViewPager` from the 
